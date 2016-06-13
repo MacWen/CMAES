@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <!-- CMAES parameters -->
+  <CMAES>
+	<name>Cmaes</name>
+  <parameters N="10" sigma="0.3" stopfitness="10e-5"></parameters>
+  </CMAES>
+
+<!--strfitnessfct="frosenbrock"-->

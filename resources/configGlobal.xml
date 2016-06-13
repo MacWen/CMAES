@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!-- Optimizer configuration -->
+  <Optimizer>
+    <name>CMAES</name>
+    <calibrationFile>CMAES.xml</calibrationFile>
+  </Optimizer>
+
+  <Function>
+    <name>rosenbrock</name>
+  </Function>
