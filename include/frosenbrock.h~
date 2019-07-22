@@ -1,9 +1,0 @@
-#ifndef frosenbrock_h
-#define frosenbrock_h
-#include <iostream>
-#include <cmath>
-#include <../3rdParty/Eigen/Dense>
-
-double frosenbrock(Eigen::VectorXd x);
-
-#endif
